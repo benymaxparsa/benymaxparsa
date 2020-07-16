@@ -4,7 +4,7 @@
 - 📫 How to reach me: [Telegram](https://telegram.me/benymaxparsa), [Instagram](https://www.instagram.com/benymax.parsa.public)
 
 if (you.Follow(me)) 
-  me.FollowBack(you);
+  me.Follow(you);
   
 ### SKILLS 
 C++, C#, Object Oriented Programming, 
