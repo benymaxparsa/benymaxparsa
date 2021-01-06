@@ -1,14 +1,14 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a video game called Uncertainty.
 - 🌱 I’m currently learning game development (Unity,Unreal Engine), algorithms, mastring C++
-- 📫 How to reach me: [Telegram](https://telegram.me/benymaxparsa), [Instagram](https://www.instagram.com/benymax.parsa.public)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/benymax.parsa.public)
 
-if (you.Follow(me)) 
-  me.Follow(you);
   
 ### SKILLS 
 C++, C#, Object Oriented Programming, 
 familiar with Unity3D, Java, System Analysis and Design, Data Structures and Algorithms  ...
+
+![Parsa's github stats](https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 **benymaxparsa/benymaxparsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Parsa's github stats](https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula)]
+
