@@ -8,8 +8,8 @@
 C++, C#, Object Oriented Programming, 
 familiar with Unity3D, Java, System Analysis and Design, Data Structures and Algorithms  ...
 
-![Parsa's github stats](https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benymaxparsa&exclude_repo=One-of-a-Kind,Bull-Cow-Game-UE4,My-Playground-Unreal-Engine,Intro-to-GameDev)
+![Parsa's github stats](https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula)
 
 <!--
 **benymaxparsa/benymaxparsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
