@@ -15,7 +15,7 @@ Languages: C/C++, C#, Java, A little bit Python
 
 I'm familiar with: Unit Testing, Software Debugging, Linux, Visual Studio, VS Code, Pycharm, System Analysis and Design, Eclipse, IntelliJ IDEA, OOP, FP, Design and Analysis of Algorithms, Data Structures, Proteus, Git, Unity.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benymaxparsa&exclude_repo=One-of-a-Kind,Bull-Cow-Game-UE4,My-Playground-Unreal-Engine,Intro-to-GameDev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benymaxparsa&theme=dracula&exclude_repo=One-of-a-Kind,Bull-Cow-Game-UE4,My-Playground-Unreal-Engine,Intro-to-GameDev)
 ![Parsa's github stats](https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula)
 
 <!--
