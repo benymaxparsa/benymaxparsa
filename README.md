@@ -1,7 +1,13 @@
-### Hi there 👋
-- 🔭 I’m currently working on a video game called Uncertainty.
-- 🌱 I’m currently learning game development (Unity,Unreal Engine), algorithms, mastring C++
-- 📫 How to reach me: [Instagram](https://www.instagram.com/benymax.parsa.public)
+### Bio:
+
+Hi there, I'm Parsa KamaliPour. I'm a Computer Software Engineering Student, and also I happen to be an Indie Game developer, as a matter of fact, I have Co-Founded an Indie Game development Team with my friend, It's called "Null References"; We are working on a game called "Uncertainty"; It's a multiplayer game about spaceship battles, oh, and It's a 3D game, made with Unity and Mirror.
+
+I'm interested in Algorithms, Problem-solving, Software engineering, and Programming.
+
+I like learning Sciences, and I'm crazy about theoretical Computer Science, thus I'm trying hard to make an impressive resume for myself in order to apply for a Ph.D. at a great University in the future.
+
+
+- 📫 How to reach me: [Instagram](https://www.instagram.com/benymax.parsa.public), [Telegram](https://t.me/benymaxparsa), [LinkedIn](https://www.linkedin.com/in/parsakamalipour)
 
   
 ### SKILLS 
