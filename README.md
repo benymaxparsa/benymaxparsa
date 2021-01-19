@@ -1,6 +1,6 @@
 ### Bio:
 
-Hi there, I'm Parsa KamaliPour. I'm a Computer Software Engineering Student, and also I happen to be an Indie Game developer, as a matter of fact, I have Co-Founded an Indie Game development Team with my friend, It's called "Null References"; We are working on a game called "Uncertainty"; It's a multiplayer game about spaceship battles, oh, and It's a 3D game, made with Unity and Mirror.
+Hi there, I'm Parsa KamaliPour. I'm a Computer Software Engineering Student, and also I happen to be an Indie Game developer, as a matter of fact, I have Co-Founded an Indie Game development Team with my friend, It's called "Null References"; We are working on a game called "Uncertainty"; It's a Shooter game about spaceship battles, oh, and It's a 3D game, made with Unity.
 
 I'm interested in Algorithms, Problem-solving, Software engineering, and Programming.
 
