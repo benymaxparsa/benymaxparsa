@@ -7,7 +7,7 @@ I'm interested in Algorithms, Problem-solving, Software engineering, and Program
 I like learning Sciences, and I'm crazy about theoretical Computer Science, thus I'm trying hard to make an impressive resume for myself in order to apply for a Ph.D. at a great University in the future.
 
 
-- 📫 How to reach me: [Instagram](https://www.instagram.com/benymax.parsa.public), [Telegram](https://t.me/benymaxparsa), [LinkedIn](https://www.linkedin.com/in/parsakamalipour)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/benymax.parsa.public), [LinkedIn](https://www.linkedin.com/in/parsakamalipour)
 
   
 ### SKILLS 
