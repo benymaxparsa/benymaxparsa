@@ -34,13 +34,15 @@ Since I like Sciences, and I am particularly fascinated by theoretical Computer 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benymaxparsa&theme=dracula&exclude_repo=One-of-a-Kind,Bull-Cow-Game-UE4,My-Playground-Unreal-Engine,Intro-to-GameDev)
+
 ![Parsa's github stats](https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=benymaxparsa.benymaxparsa)
 
 <!--
 **benymaxparsa/benymaxparsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benymaxparsa&theme=dracula&exclude_repo=One-of-a-Kind,Bull-Cow-Game-UE4,My-Playground-Unreal-Engine,Intro-to-GameDev)
 
 Here are some ideas to get you started:
 
