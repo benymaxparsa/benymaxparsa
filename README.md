@@ -1,19 +1,38 @@
 ### Bio:
 
-Hi there, I'm Parsa KamaliPour. I'm a Computer Software Engineering Student, and also I happen to be an Indie Game developer, as a matter of fact, I have Co-Founded an Indie Game development Team with my friend, It's called "Null References"; We are working on a game called "Uncertainty"; It's a Shooter game about spaceship battles, oh, and It's a 3D game, made with Unity.
+Hi there, I'm Parsa KamaliPour. My major is Computer Software Engineering, and in addition to that, I am also a self-taught game developer, My friend and I have formed an Indie Game Development Team, It's called "Null References"; we're working on a game called "Uncertainty"; Uncertainty is an action-adventure space-shooter game, built with Unity.
 
-I'm interested in Algorithms, Problem-solving, Software engineering, and Programming.
+I am interested in Algorithms, Problem-solving, Software Engineering, and Programming.
 
-I like learning Sciences, and I'm crazy about theoretical Computer Science, thus I'm trying hard to make an impressive resume for myself in order to apply for a Ph.D. at a great University in the future.
+Since I like Sciences, and I am particularly fascinated by theoretical Computer Science, I am striving to make an outstanding resume in order to apply for a Ph.D. at a great University in the future.
 
 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/benymax.parsa.public), [LinkedIn](https://www.linkedin.com/in/parsakamalipour)
 
+---
   
 ### SKILLS 
-Languages: C/C++, C#, Java, A little bit Python
+- #### Programming Languages:
+  C/C++, C#, Java, Python 3
+  
+- #### Game Development:
+  Unity
+  
+- #### Application Development:
+  Qt, C# WPF
+  
+- #### Software Engineering:
+  Refactoring, Debugging, Unit Testing, Agile mythology, OOP
+  
+- #### Tools:
+  Visual Studio, Rider, VS Code  
+  Eclipse, IntelliJ IDEA  
+  PyCharm, Jupyter Notebook
+  
+- #### Others:
+  Proteus, Git, Linux, LaTeX, Design of Algorithms, Data Structures
 
-I'm familiar with: Unit Testing, Software Debugging, Linux, Visual Studio, VS Code, Pycharm, System Analysis and Design, Eclipse, IntelliJ IDEA, OOP, FP, Design and Analysis of Algorithms, Data Structures, Proteus, Git, Unity.
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benymaxparsa&theme=dracula&exclude_repo=One-of-a-Kind,Bull-Cow-Game-UE4,My-Playground-Unreal-Engine,Intro-to-GameDev)
 ![Parsa's github stats](https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula)
