@@ -1,10 +1,10 @@
 ### Bio:
 
-Hi there, I'm Parsa KamaliPour. My major is Computer Software Engineering, and in addition to that, I am also a self-taught game developer, My friend and I have formed an Indie Game Development Team, It's called "Null References"; we're working on a game called "Uncertainty"; Uncertainty is an action-adventure space-shooter game, built with Unity.
+Thanks for stopping by. I'm Parsa KamaliPour. In addition to majoring in Software Engineering, I am also a self-taught game developer, My friend and I have formed an Indie Game Development Team, It's called "Null References"; we're working on a game called "Uncertainty"; Uncertainty is an action-adventure space-shooter game, built with Unity.
 
-I am interested in Algorithms, Problem-solving, Software Engineering, and Programming.
+Besides algorithms, I have a great interest in programming, problem-solving, software engineering, and game development.  
 
-Since I like Sciences, and I am particularly fascinated by theoretical Computer Science, I am striving to make an outstanding resume in order to apply for a Ph.D. at a great University in the future.
+In light of my interest in Sciences, and especially theoretical Computer Science, I am striving to make an outstanding resume in order to one day apply to a Ph.D. program at a prestigious University.
 
 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/benymax.parsa.public), [LinkedIn](https://www.linkedin.com/in/parsakamalipour)
