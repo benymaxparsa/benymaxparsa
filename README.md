@@ -5,7 +5,10 @@
 <img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-purple">
 </p>
 
-# Bio:
+ <br />
+<p align="center">
+  <h1 align="center"> Bio </h1>
+<p h2 align="center">
 
 Thanks for stopping by. I'm Parsa KamaliPour. In addition to majoring in Software Engineering, I am also a self-taught game developer, My friend and I have formed an Indie Game Development Team, It's called "Null References"; we're working on a game called "Uncertainty"; Uncertainty is an action-adventure space-shooter game, built with Unity.
 
@@ -15,7 +18,10 @@ In light of my interest in Sciences, and especially theoretical Computer Science
 
 
   
-## Skills  
+ <br />
+<p align="center">
+  <h1 align="center"> Skills </h1>
+<p h2 align="center">
 
 - #### Programming Languages:
   C/C++, C#, Java, Python 3
@@ -36,8 +42,12 @@ In light of my interest in Sciences, and especially theoretical Computer Science
   
 - #### Others:
   Proteus, Git, Linux, LaTeX, Design of Algorithms, Data Structures
+  
 
-## Stats  
+ <br />
+<p align="center">
+  <h1 align="center"> Stats </h1>
+<p h2 align="center">
 
 
 <p align="center">
