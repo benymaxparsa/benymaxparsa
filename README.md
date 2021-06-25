@@ -30,7 +30,7 @@ In light of my interest in Sciences, and especially theoretical Computer Science
   <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   
 - #### Application Development & Frameworks:
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>  <img alt="C# WPF" src="https://img.shields.io/badge/WPF-%23217346.svg?style=for-the-badge&logo=WPF&logoColor=white"/>
+  <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>  <img alt="C# WPF" src="https://img.shields.io/badge/WPF-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
   
 - #### Software Engineering:
