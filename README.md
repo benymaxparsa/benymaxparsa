@@ -50,10 +50,9 @@ In light of my interest in Sciences, and especially theoretical Computer Science
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula" alt="Parsa KamaliPour's GitHub stats" /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benymaxparsa&theme=dracula" alt="Parsa KamaliPour's Github Steak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula&hide_border=true" alt="Parsa KamaliPour's GitHub stats" /><br />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=benymaxparsa&theme=dracula&hide_border=true" alt="Parsa KamaliPour's Github Steak" />
 </p>
-
 
 
 <!--
