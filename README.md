@@ -10,12 +10,11 @@
   <h1 align="center"> Bio </h1>
 <p h2 align="center">
 
-Thanks for stopping by. I'm Parsa KamaliPour. In addition to majoring in Software Engineering, I am also a self-taught game developer, My friend and I have formed an Indie Game Development Team, It's called "Null References"; we're working on a game called "Uncertainty"; Uncertainty is an action-adventure space-shooter game, built with Unity.
-
-Besides algorithms, I have a great interest in programming, problem-solving, software engineering, and game development.  
-
-In light of my interest in Sciences, and especially theoretical Computer Science, I am striving to make an outstanding resume in order to one day apply to a Ph.D. program at a prestigious University.
-
+Greetings, I'm Parsa.  
+As an undergrad, I'm in my senior year majoring in Computer Engineering.  
+Programming experience of around four years, two years of experience working as a game developer in the indie game industry. One year of experience as a head teaching assistant for two courses related to algorithms and data structures.  
+A little less than half of a year of research experience in fields relating to algorithms, graphs, and community detection.  
+My main area of interest is theoretical computer science. I am eager to continue researching this area, pursue a Ph.D. in Computer Science, and possibly work in academia.
 
   
  <br />
