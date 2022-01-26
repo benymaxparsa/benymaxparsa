@@ -6,8 +6,6 @@
 </p>
 
 ![download](https://user-images.githubusercontent.com/51443025/151240936-148b4d58-20bd-4685-9b30-7e97914455b3.png)
-
-
  <br />
 <p align="center">
   <h1 align="center"> Bio </h1>
