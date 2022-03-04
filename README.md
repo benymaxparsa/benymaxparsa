@@ -5,7 +5,9 @@
 <img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-purple">
 </p>
 
-![download](https://user-images.githubusercontent.com/51443025/151243108-b5aa2f3b-0d97-4554-ae2b-0c5dde60af76.png)
+![parsa kamalipour](https://user-images.githubusercontent.com/51443025/156853900-4bd7fc05-bf9e-4245-bb8e-09a58ffac59e.png)
+
+
  <br />
 <p align="center">
   <h1 align="center"> Bio </h1>
