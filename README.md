@@ -13,11 +13,15 @@
   <h1 align="center"> Bio </h1>
 <p h2 align="center">
 
-Greetings, I'm Parsa.  
-As an undergrad, I'm in my senior year majoring in Computer Engineering.  
-Programming experience of around four years, two years of experience working as a game developer in the indie game industry. One year of experience as a head teaching assistant for two courses related to algorithms and data structures.  
-A little less than half of a year of research experience in fields relating to algorithms, graphs, and community detection.  
-My main area of interest is theoretical computer science. I am eager to continue researching this area, pursue a Ph.D. in Computer Science, and possibly work in academia.
+Greetings, I am Parsa.  
+As an undergrad, I am in my senior year majoring in Computer Engineering.  
+
+● Four years of programming experience  
+● Two years of experience working as a game developer in the indie game industry.  
+● Around one and a half years of experience as a teaching assistant for five courses, including Introduction to Information Retrieval & Web Search, Design and Analysis of Algorithms, Data Structures, Operating Systems, Discrete Mathematics  
+● Around one year of research experience in Community Detection algorithms, I also have dealt with fields relating to algorithm design, graph theory, and randomized algorithms.
+
+My main area of research interest is theoretical computer science. To be precise, in fields such as Algorithm Design, Data Structures, Game Theory, Graph Theory, Data Science, and most subcategories in the algorithms field. I am eager to continue researching these areas, pursue a Ph.D. in Computer Science, and probably work in academia.
 
   
  <br />
