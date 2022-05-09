@@ -87,12 +87,14 @@ My main area of research interest is theoretical computer science. To be precise
 <p h2 align="center">
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula&hide_border=true" alt="Parsa KamaliPour's GitHub stats" /><br />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=benymaxparsa&theme=dracula&hide_border=true" alt="Parsa KamaliPour's Github Steak" />
+
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=benymaxparsa&theme=dracula&hide_border=true" />
+  </a>
 </p>
 
-
+[![Parsa's github activity graph](https://activity-graph.herokuapp.com/graph?username=benymaxparsa&theme=dracula	)](https://github.com/benymaxparsa/github-readme-activity-graph)
 
 <!--
 **benymaxparsa/benymaxparsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
