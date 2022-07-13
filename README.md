@@ -14,14 +14,14 @@
 <p h2 align="center">
 
 Greetings, I am Parsa.  
-As an undergrad, I am in my senior year majoring in Computer Engineering.  
+It is my senior year as an undergraduate studying Computer Engineering.
 
 ● Four years of programming experience  
 ● Two years of experience working as a game developer in the indie game industry.  
 ● Around one and a half years of experience as a teaching assistant for five courses, including Introduction to Information Retrieval & Web Search, Design and Analysis of Algorithms, Data Structures, Operating Systems, Discrete Mathematics  
 ● Around one year of research experience in Community Detection algorithms, I also have dealt with fields relating to algorithm design, graph theory, and randomized algorithms.
 
-My main area of research interest is theoretical computer science. To be precise, in fields such as Algorithm Design, Data Structures, Game Theory, Graph Theory, Data Science, and most subcategories in the algorithms field. I am eager to continue researching these areas, pursue a Ph.D. in Computer Science, and probably work in academia.
+My main area of research interest is theoretical computer science. To be precise, in fields such as Design & Analysis of Algorithms, Data Structures, Game Theory, Graph Theory, Data Mining, Machine Learning, Deep Learning, and most subcategories in the algorithms field. I am eager to continue researching these areas, pursue a Ph.D. in Computer Science, and probably work in academia.
 
   
  <br />
@@ -45,9 +45,12 @@ My main area of research interest is theoretical computer science. To be precise
   <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-%23316192.svg?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-%23316192.svg?style=for-the-badge&logo=NetworkX&logoColor=white"/>
 
 - #### Databases:
   <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   
 - #### Markup languages:
   <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
