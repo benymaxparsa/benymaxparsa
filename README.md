@@ -24,6 +24,38 @@ The track of my major is Software Engineering.
 
 My main area of research interest is theoretical computer science. To be precise, in fields such as Design & Analysis of Algorithms, Data Structures, Algorithmic Game Theory, Graph Algorithms, Data Mining, Machine Learning, Deep Learning, and most subcategories in the algorithms field. I am eager to continue researching these areas, pursue a Ph.D. in Computer Science, and presumably work in academia.
 
+ <br />
+<p align="center">
+  <h1 align="center"> How to reach me? </h1>
+<p h2 align="center">
+
+<a href="https://www.researchgate.net/profile/Parsa-Kamalipour">
+  <img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>
+ </a>
+ <a href="https://www.linkedin.com/in/parsakamalipour/">
+  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="https://scholar.google.com/citations?user=eBNZsM0AAAAJ">
+  <img alt="google_scholar" src="https://img.shields.io/badge/google_scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+ </a>
+ <a href="https://orcid.org/0000-0003-2546-9676">
+  <img alt="ORCID" src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white"/>
+ </a>
+ <a href="https://www.youtube.com/channel/UCIu6MeO9aaBsLy00XoKO5tw">
+  <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
+ </a>
+ <a href="mailto:parsakamalipour.edu@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
+ <a href="https://github.com/benymaxparsa">
+  <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+ </a>
+ <a href="https://benymaxparsa.github.io/">
+  <img alt="Website" src="https://img.shields.io/badge/Website-%23150458.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
+ </a>
+ <a href="https://www.kaggle.com/benymaxparsa">
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
+ </a>
   
  <br />
 <p align="center">
