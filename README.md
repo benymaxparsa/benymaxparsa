@@ -17,12 +17,12 @@ Greetings, I am Parsa.
 It is my senior year as an undergraduate studying Computer Engineering.  
 The track of my major is Software Engineering.  
 
-● Four years of programming experience  
+● Five years of programming experience  
 ● Two years of experience working as a game developer in the indie game industry.  
-● Around two years of experience as a teaching assistant for eight courses, including: Introduction to Information Retrieval & Web Search, Design and Analysis of Algorithms, Data Structures, Operating Systems, Discrete Mathematics, Fundamentals of Programming, Database, Artificial Intelligence  
-● One year of research experience in Community Detection algorithms, I have dealt with the following fields: Design & Analysis of Algorithms, Graph Algorithms, Randomized Algorithms, Data Mining, Machine Learning & Deep Learning  
+● Two years of experience as a teaching assistant for eight courses, including: Introduction to Information Retrieval & Web Search, Design and Analysis of Algorithms, Data Structures, Operating Systems, Discrete Mathematics, Fundamentals of Programming, Database, Artificial Intelligence  
+● One and half year of research experience in Community Detection algorithms, I have dealt with the following fields: Design & Analysis of Algorithms, Graph Processing, Randomized Algorithms, Data Mining, Machine Learning & Deep Learning  
 
-My main area of research interest is theoretical computer science. To be precise, in fields such as Design & Analysis of Algorithms, Data Structures, Algorithmic Game Theory, Graph Algorithms, Data Mining, Machine Learning, Deep Learning, and most subcategories in the algorithms field. I am eager to continue researching these areas, pursue a Ph.D. in Computer Science, and presumably work in academia.
+My main area of research interest is theoretical computer science. To be precise, in fields such as Design & Analysis of Algorithms, Data Structures, Algorithmic Game Theory, Graph Processing, Data Mining, Machine Learning, Deep Learning, and most subcategories in the algorithms field. I am eager to continue researching these areas, pursue a Ph.D. in Computer Science, and presumably work in academia.
 
  <br />
 <p align="center">
@@ -122,7 +122,7 @@ My main area of research interest is theoretical computer science. To be precise
   <img alt="Data Structures" src="https://img.shields.io/badge/Data Structures-%23121011.svg?style=for-the-badge&logo=DataStructures&logoColor=white"/>
 
 - #### Soft Skills:
-    Team Work, leadership, Collaboration, Communication, Problem-solving, Critical thinking, Decision-making
+    Team Work, leadership, Collaboration, Communication, Problem-solving, Critical thinking, Decision-making, Teaching
 
 - #### Technical Skills:
     Algorithm Design, Algorithm Analysis, Research, Teaching, Data Mining, Deep Learning, Algorithmic Graph Theory, Community Detection
@@ -143,7 +143,7 @@ My main area of research interest is theoretical computer science. To be precise
   </a>
 </p>
 
-[![Parsa's github activity graph](https://activity-graph.herokuapp.com/graph?username=benymaxparsa&theme=dracula	)](https://github.com/benymaxparsa/github-readme-activity-graph)
+<!-- [![Parsa's github activity graph](https://activity-graph.herokuapp.com/graph?username=benymaxparsa&theme=dracula	)](https://github.com/benymaxparsa/github-readme-activity-graph) -->
 
 <!--
 **benymaxparsa/benymaxparsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
