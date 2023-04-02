@@ -19,7 +19,7 @@ The track of my major is Software Engineering.
 
 ● Five years of programming experience  
 ● Two years of experience working as a game developer in the indie game industry.  
-● About Two and half years of experience as a teaching assistant for eight courses, including: Introduction to Information Retrieval & Web Search, Design and Analysis of Algorithms, Data Structures, Operating Systems, Discrete Mathematics, Fundamentals of Programming, Database, Artificial Intelligence, Introduction to Data Mining, Software Engineering  
+● About Two and half years of experience as a teaching assistant for ten courses, including: Introduction to Information Retrieval & Web Search, Design and Analysis of Algorithms, Data Structures, Operating Systems, Discrete Mathematics, Fundamentals of Programming, Database, Artificial Intelligence, Introduction to Data Mining, Software Engineering  
 ● About two years of research experience in Community Detection algorithms, I have dealt with the following fields: Design & Analysis of Algorithms, Graph Processing, Randomized Algorithms, Data Mining, Machine Learning & Deep Learning  
 
 My main area of research interest is theoretical computer science. To be precise, in fields such as Design & Analysis of Algorithms, Data Structures, Algorithmic Game Theory, Graph Processing, Data Mining, Machine Learning, Deep Learning, and most subcategories in the algorithms field. I am eager to continue researching these areas, pursue a Ph.D. in Computer Science, and presumably work in academia.
