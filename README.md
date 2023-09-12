@@ -13,19 +13,17 @@
   <h1 align="center"> Bio </h1>
 <p h2 align="center">
 
-Greetings, I am Parsa.  
-I possess a Bachelor of Science degree in Computer Engineering with a specialization in Software Engineering and a specialized focus on Data Processing.  
-Although my major is Computer Engineering, my true expertise lies in Theoretical Computer Science, specifically in the areas of Data Structures, Design and Analysis of Algorithms, and to some extent, Graph Theory.  
+Parsa introduces himself as an individual with a Bachelor of Science degree in Computer Engineering, specializing in Software Engineering and with a specific focus on Data Processing. Although his major is in Computer Engineering, his true expertise lies in **Theoretical Computer Science**, particularly in the areas of **Data Structures**, **Design and Analysis of Algorithms**, and **Graph Theory**.  
+
+Parsa’s primary area of research interest centers around theoretical computer science, with a keen interest in fields such as Design & Analysis of Algorithms, Data Structures, Graph Theory (& Processing), Data Mining, Machine Learning, **Complexity Theory**, and various subcategories within the algorithms domain such as **Combinatorial Optimization** and **Approximation & Randomized Algorithms**.  
+He expresses enthusiasm for pursuing advanced studies in Theoretical Computer Science at the graduate level, aiming to make significant contributions as a researcher and aspiring to achieve the status of a distinguished professor in the near future.
 
 
 ● Five years of programming experience  
 ● Two years of experience working as a game developer in the indie game industry.  
-● About Two and half years of experience as a teaching assistant for ten courses, including: Introduction to Information Retrieval & Web Search, Design and Analysis of Algorithms, Data Structures, Operating Systems, Discrete Mathematics, Fundamentals of Programming, Database, Artificial Intelligence, Introduction to Data Mining, Software Engineering.   
-● About two years of research experience in Community Detection algorithms, I have dealt with the following fields: Design & Analysis of Algorithms, Graph Processing, Randomized Algorithms, Data Mining, Machine Learning  
+● 2.5 years of experience as a teaching assistant for ten courses, including: Introduction to Information Retrieval & Web Search, Design and Analysis of Algorithms, Data Structures, Operating Systems, Discrete Mathematics, Fundamentals of Programming, Database, Artificial Intelligence, Introduction to Data Mining, Software Engineering.   
+● 2 years of research experience in Community Detection algorithms, I have dealt with the following fields: Design & Analysis of Algorithms, Graph Processing, Randomized Algorithms, Data Mining, Machine Learning  
 
-My main area of research interest is theoretical computer science. To be precise, in fields such as Design & Analysis of Algorithms, Data Structures, Algorithmic Game Theory, Graph Processing, Data Mining, Machine Learning, Deep Learning, and most subcategories in the algorithms field.  
-I am enthusiastic about pursuing advanced studies in Theoretical Computer Science at the graduate level.  
-My motivation is to make significant contributions as a researcher and aspire to become a distinguished professor in the near future.  
 
  <br />
 <p align="center">
