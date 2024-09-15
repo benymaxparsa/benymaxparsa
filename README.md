@@ -13,7 +13,7 @@
   <h1 align="center"> Bio </h1>
 <p h2 align="center">
 
-Parsa is a dedicated professional with a Bachelor of Science degree in Computer Engineering, specializing in Software Engineering and a profound focus on Data Processing. While his academic foundation lies in Computer Engineering, Parsa's true expertise extends into ***<u>Theoretical Computer Science</u>***.
+Parsa is currently pursuing a Master of Computer Science degree from Concordia University in the Department of Computer Science and Software Engineering (CSSE), Gina Cody School of Engineering and Computer Science. He is conducting research at the Algorithms & Complexity Lab under the supervision of Professor Hovhannes Harutyunyan. Parsa’s true expertise extends into Theoretical Computer Science.
 
 Parsa has a keen interest in areas such as ***<u>Data Structures</u>***, ***<u>Design and Analysis of Algorithms</u>***, ***<u>Graph Theory</u>***, and ***<u>Complexity Theory</u>***. His research interest spans various subcategories within the algorithms domain, including ***<u>Combinatorial Algorithms</u>***, ***<u>Online Algorithms</u>***, ***<u>Graph Algorithms</u>***, ***<u>Graph Mining</u>***, ***<u>Social Network Analysis</u>***, and ***<u>Approximation & Randomized Algorithms</u>***.
 
