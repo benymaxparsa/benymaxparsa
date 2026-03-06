@@ -1,173 +1,121 @@
+<div align="center">
 
-<p align="center">
-<img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-1abedb.svg?style=flat&logo=github">
-<img alt="Github Viewers" src="https://visitor-badge.glitch.me/badge?page_id=benymaxparsa.benymaxparsa">
-<img alt="Open Source Love" src="https://img.shields.io/badge/Open%20Source-%E2%99%A1-purple">
-</p>
+# Hi, I'm Parsa Kamalipour 👋
 
-![parsa kamalipour (4)](https://user-images.githubusercontent.com/51443025/156933017-5908db34-bb39-49be-a250-518a9d4558c3.gif)
+**Graduate Researcher & Teaching Assistant @ Concordia University**  
+*Algorithms & Complexity Lab · Montréal, QC, Canada*
 
+[![Website](https://img.shields.io/badge/Website-benymaxparsa.github.io-4A90D9?style=flat-square&logo=github)](https://benymaxparsa.github.io/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-eBNZsM0AAAAJ-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eBNZsM0AAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-parsakamalipour-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parsakamalipour/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Parsa--Kamalipour-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Kamalipour)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2546--9676-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2546-9676)
+[![Email](https://img.shields.io/badge/Email-parsakamalipour.edu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:parsakamalipour.edu@gmail.com)
 
- <br />
-<p align="center">
-  <h1 align="center"> Bio </h1>
-<p h2 align="center">
+</div>
 
-**Parsa Kamalipour** is a dedicated graduate student currently pursuing a **<u>Thesis-based Master of Computer Science</u>** at [Concordia University](https://www.concordia.ca), within the Department of [Computer Science and Software Engineering (CSSE)](https://www.concordia.ca/ginacody/computer-science-software-eng.html) at the [Gina Cody School of Engineering and Computer Science](https://www.concordia.ca/ginacody.html). His academic journey is guided by a deep passion for **<u>Theoretical Computer Science</u>**, where he specializes in areas such as **<u>Design and Analysis of Algorithms</u>**, **<u>Graph Theory</u>**, **<u>Discrete Mathematics</u>**, **<u>Data Structures</u>**, and **<u> Computational Complexity Theory</u>**. It goes without saying that Parsa’s expertise also includes a touch of _**Applied Mathematics**_, _**Software Engineering**_, and _**Data Mining**_.
+---
 
-Parsa’s research interests span across various subfields within the algorithms domain, including **<u>Combinatorial Optimization/Algorithms</u>**, **<u>Graph Algorithms</u>**, **<u>Graph Mining</u>**, **<u>Social Network Analysis</u>**, **<u>Approximation & Randomized Algorithms</u>**, and **<u>Online Algorithms</u>**. He is conducting research at the _**Algorithms & Complexity Lab**_ under the supervision of [Professor Hovhannes Harutyunyan](https://users.encs.concordia.ca/~haruty/), focusing on advancing the theoretical foundations of these topics.
+## 🧑‍🔬 About Me
 
-Prior to his graduate studies, Parsa gained significant research experience as a **<u>Research Assistant</u>** at _Vali-e-Asr University of Rafsanjan_, where he concentrated on **<u>Algorithm Design and Graph Theory</u>**. He further expanded his research expertise at the _University of Twente_, where he applied **<u>Machine Learning techniques</u>** to improve **<u>Software Refactoring</u>** processes.
+I'm a thesis-based **Master's student in Computer Science** at [Concordia University](https://www.concordia.ca), working at the **Algorithms & Complexity Lab** under [Prof. Hovhannes Harutyunyan](https://users.encs.concordia.ca/~haruty/) with 5 published or in-progress papers and a teaching portfolio spanning 10 courses (1100+ hours). My work sits at the intersection of **Theoretical Computer Science**, **Graph Theory**, and **Network Science** — designing scalable algorithms for complex network analysis.
 
-In addition to his research, Parsa is deeply committed to education. He has served as a **<u>Teaching Assistant (TA)</u>** for over _**15 courses**_, primarily in **<u>Theoretical Computer Science</u>** and **<u>Software Engineering</u>** fields. He has provided support for courses such as Design and Analysis of Algorithms, Data Structures, Discrete Mathematics, Data Mining, Principles of Programming Languages, Data Systems for Software Engineers, Combinatorics, Introduction to Theoretical Computer Science, Operating Systems, Introduction to Information Retrieval, Software Engineering, Database, Fundamentals of Programming, and Artificial Intelligence.
+My core research focuses on **community detection** in large-scale graphs: I design, benchmark, and publish algorithms that uncover meaningful structure in social, citation, and synthetic networks.
 
-Parsa is driven by a deep passion for both research and teaching, aspiring to make meaningful contributions to his field while inspiring the next generation of scholars. His ultimate goal is to become a distinguished professor, where he can advance the frontiers of knowledge through research while fostering a dynamic and engaging learning environment for students. 
+> *"Design algorithms. Mine graphs. Understand networks."*
 
+---
 
- <br />
-<p align="center">
-  <h1 align="center"> How to reach me? </h1>
-<p h2 align="center">
+## 🔬 Research Interests
 
-<a href="https://www.researchgate.net/profile/Parsa-Kamalipour">
-  <img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white"/>
- </a>
- <a href="https://www.linkedin.com/in/parsakamalipour/">
-  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
- <a href="https://scholar.google.com/citations?user=eBNZsM0AAAAJ">
-  <img alt="google_scholar" src="https://img.shields.io/badge/google_scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
- </a>
- <a href="https://orcid.org/0000-0003-2546-9676">
-  <img alt="ORCID" src="https://img.shields.io/badge/ORCID-a6ce39?style=for-the-badge&logo=orcid&logoColor=white"/>
- </a>
-  <a href="https://www.youtube.com/channel/UCIu6MeO9aaBsLy00XoKO5tw">
-  <img alt="YouTube" src="https://img.shields.io/badge/YouTube_No.1-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
- </a>
- <a href="mailto:parsakamalipour.edu@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
- </a>
- <a href="https://github.com/benymaxparsa">
-  <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
- </a>
- <a href="https://benymaxparsa.github.io/">
-  <img alt="Website" src="https://img.shields.io/badge/Website-%23150458.svg?style=for-the-badge&logo=GoogleChrome&logoColor=white"/>
- </a>
- <a href="https://www.kaggle.com/benymaxparsa">
-  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/>
- </a>
- <a href="https://twitter.com/ParsaKamalipour">
-  <img alt="X (Twitter)" src="https://img.shields.io/badge/X_(Twitter)-%23121011.svg?style=for-the-badge&logo=X&logoColor=white"/>
- </a>
- <a href="https://mastodon.social/@parsakamalipour">
-  <img alt="mastodon" src="https://img.shields.io/badge/mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white"/>
- </a>
-  
- <br />
-<p align="center">
-  <h1 align="center"> Skills </h1>
-<p h2 align="center">
+- **Design & Analysis of Algorithms** — combinatorial optimization, approximation & randomized algorithms
+- **Graph Theory & Graph Mining** — community detection, link prediction, node classification
+- **Social Networks Analysis** — large-scale network evaluation, complex network dynamics
+- **Machine Learning on Graphs** — GNNs, scalable training strategies, network embeddings
 
-- #### Programming Languages:
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="Matlab" src="https://img.shields.io/badge/Matlab®-%23E34F26.svg?style=for-the-badge&logo=matlab&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+---
 
-- #### Game Development:
-  <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+## 📄 Selected Publications
 
-- #### Application Development & Frameworks & Libraries:
-  <img alt="Qt" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="Matplotlib" src="https://img.shields.io/badge/matplotlib-%23316192.svg?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="NetworkX" src="https://img.shields.io/badge/NetworkX-%23316192.svg?style=for-the-badge&logo=NetworkX&logoColor=white"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-
-- #### Databases:
-  <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-- #### Markup languages:
-  <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-
-- #### Tools:
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img alt="Obsidian" src="https://img.shields.io/badge/obsidian-%23150458.svg?style=for-the-badge&logo=obsidian&logoColor=white" />
-  <img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
-    <img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-    <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-
-- #### Partially familiar with (Elementary level):
-  <img alt="VHDL" src="https://img.shields.io/badge/VHDL-%23121011.svg?style=for-the-badge&logo=vhdl&logoColor=white"/>
-  <img alt="Assembly 8086" src="https://img.shields.io/badge/Assembly 8086-%23121011.svg?style=for-the-badge&logo=Assembly8086&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img alt="C# WPF" src="https://img.shields.io/badge/WPF-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-- #### Software Engineering:
-  <img alt="Refactoring" src="https://img.shields.io/badge/Refactoring-%23121011.svg?style=for-the-badge&logo=Refactoring&logoColor=white"/>
-  <img alt="Debugging" src="https://img.shields.io/badge/Debugging-%23121011.svg?style=for-the-badge&logo=Debugging&logoColor=white"/>
-  <img alt="Unit Testing" src="https://img.shields.io/badge/Unit Testing-%23121011.svg?style=for-the-badge&logo=UnitTesting&logoColor=white"/>
-  <img alt="Agile mythology" src="https://img.shields.io/badge/Agile mythology-%23121011.svg?style=for-the-badge&logo=Agilemythology&logoColor=white"/>
-
-  <img alt="Object Oriented Programming" src="https://img.shields.io/badge/Object Oriented Programming-%23121011.svg?style=for-the-badge&logo=OOP&logoColor=white"/>
-  <img alt="Design of Algorithms" src="https://img.shields.io/badge/Design of Algorithms-%23121011.svg?style=for-the-badge&logo=DesignofAlgorithms&logoColor=white"/>
-  <img alt="Data Structures" src="https://img.shields.io/badge/Data Structures-%23121011.svg?style=for-the-badge&logo=DataStructures&logoColor=white"/>
-
-- #### Soft Skills:
-    Team Work, leadership, Collaboration, Communication, Problem-solving, Critical thinking, Decision-making, Teaching
-
-- #### Technical Skills:
-    Algorithm Design, Algorithm Analysis, Research, Teaching, Data Mining, Deep Learning, Algorithmic Graph Theory, Community Detection
-  
-
-  
-
- <br />
-<p align="center">
-  <h1 align="center"> Stats </h1>
-<p h2 align="center">
+| Year | Paper | Venue |
+|------|-------|-------|
+| 2026 | **Spider Community Detection**: Seeded Geodesic Expansion with Modularity-Guided Refinement and Greedy Merge Matching *(with H. Harutyunyan)* | *Computers* (MDPI) — Special Issue: Recent Advances in Social Networks |
+| 2025 | **From Dense Graphs to Meaningful Communities**: Assessing Community Quality Using Geodesic Distance Modularity on Metric Backbone-Sparsified Networks *(with H. Harutyunyan)* | SNAMS 2025, Vienna, Austria |
+| 2024 | **Extending Refactoring Detection to Kotlin**: A Dataset and Comparative Study *(with I. H. Moghadam et al.)* | SANER 2024 |
+| 2022 | **Community Detection in Complex Networks** Based on an Improved Random Algorithm Using Local and Global Network Information *(with F. Dabaghi-Zarandi)* | *Journal of Network and Computer Applications* |
 
 
+---
 
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=benymaxparsa&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=benymaxparsa&theme=dracula&hide_border=true" />
-  </a>
-</p>
+## 🛠️ Skills & Tools
 
-<!-- [![Parsa's github activity graph](https://activity-graph.herokuapp.com/graph?username=benymaxparsa&theme=dracula	)](https://github.com/benymaxparsa/github-readme-activity-graph) -->
+**Programming Languages**
 
-<!--
-**benymaxparsa/benymaxparsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![x86 Assembly](https://img.shields.io/badge/Assembly%20x86-6E4C13?style=flat-square)
+![ARM Assembly](https://img.shields.io/badge/Assembly%20ARM-0091BD?style=flat-square)
+![VHDL](https://img.shields.io/badge/VHDL-6A0DAD?style=flat-square)
+![Unity](https://img.shields.io/badge/Unity%20Engine-000000?style=flat-square&logo=unity&logoColor=white)
 
-- #### IDEs:
-  <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/> <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/> <img alt="Rider" src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson"/> <img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white"/> <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>	<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+**ML & Data Science**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benymaxparsa&theme=dracula&exclude_repo=One-of-a-Kind,Bull-Cow-Game-UE4,My-Playground-Unreal-Engine,Intro-to-GameDev)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![NetworkX](https://img.shields.io/badge/NetworkX-3A7EBB?style=flat-square)
+![iGraph](https://img.shields.io/badge/iGraph-E8652A?style=flat-square)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Databases**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+
+
+---
+
+## 🏆 Honors & Awards
+
+- 🏅 **Concordia Conference and Exposition Allowance** (2025)
+- 🥇 **DRW Graduate Scholarship in Computer Science** — Concordia University & DRW (2024)
+- 🎓 **Concordia Merit Scholarship** (Entrance Award) — Concordia University, School of Graduate Studies (2024)
+- 🔬 **Financial Research Support (FRS)** — Concordia Faculty of Engineering & Computer Science (2024)
+- 🌟 **Top Researcher Award** — Among all undergraduate students in Kerman Province (2023)
+- 🎖️ **Distinguished Student Award** — Vali-e-Asr University (2023)
+
+---
+
+## 📬 Contact
+
+I'm always happy to connect about research, collaborations, or opportunities.
+
+- 🌐 **Website:** [benymaxparsa.github.io](https://benymaxparsa.github.io/)
+- 📧 **Email:** [parsakamalipour.edu@gmail.com](mailto:parsakamalipour.edu@gmail.com)
+- 💼 **LinkedIn:** [parsakamalipour](https://www.linkedin.com/in/parsakamalipour/)
+- 🐦 **Twitter/X:** [@ParsaKamalipour](https://twitter.com/ParsaKamalipour)
+
+---
+
+<div align="center">
+  <sub>Last updated: March 2026</sub>
+</div>
