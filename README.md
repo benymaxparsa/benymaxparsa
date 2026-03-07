@@ -41,7 +41,7 @@ My core research focuses on **community detection** in large-scale graphs: I des
 |------|-------|-------|
 | 2026 | **Spider Community Detection**: Seeded Geodesic Expansion with Modularity-Guided Refinement and Greedy Merge Matching *(with H. Harutyunyan)* | *Computers* — Special Issue: Recent Advances in Social Networks |
 | 2025 | **From Dense Graphs to Meaningful Communities**: Assessing Community Quality Using Geodesic Distance Modularity on Metric Backbone-Sparsified Networks *(with H. Harutyunyan)* | SNAMS 2025, Vienna, Austria |
-| 2024 | **Extending Refactoring Detection to Kotlin**: A Dataset and Comparative Study *(with I. H. Moghadam et al.)* | SANER 2024, Rovaniemi , Finland |
+| 2024 | **Extending Refactoring Detection to Kotlin**: A Dataset and Comparative Study *(with I. H. Moghadam et al.)* | SANER 2024, Rovaniemi, Finland |
 | 2022 | **Community Detection in Complex Networks** Based on an Improved Random Algorithm Using Local and Global Network Information *(with F. Dabaghi-Zarandi)* | *Journal of Network and Computer Applications* |
 
 
