@@ -2,15 +2,16 @@
 
 # Hi, I'm Parsa Kamalipour 👋
 
-**Graduate Researcher & Teaching Assistant @ Concordia University**  
+**Graduate Researcher & Teaching Assistant @ Concordia University**<br>
 *Algorithms & Complexity Lab · Montréal, QC, Canada*
 
-[![Website](https://img.shields.io/badge/Website-benymaxparsa.github.io-4A90D9?style=flat-square&logo=github)](https://benymaxparsa.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-eBNZsM0AAAAJ-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eBNZsM0AAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-parsakamalipour-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parsakamalipour/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Parsa--Kamalipour-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Kamalipour)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2546--9676-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2546-9676)
-[![Email](https://img.shields.io/badge/Email-parsakamalipour.edu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:parsakamalipour.edu@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benymaxparsa.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsakamalipour/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eBNZsM0AAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Kamalipour)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2546-9676)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsakamalipour.edu@gmail.com)
+
 
 </div>
 
@@ -18,9 +19,11 @@
 
 ## 🧑‍🔬 About Me
 
-I'm a thesis-based **Master's student in Computer Science** at [Concordia University](https://www.concordia.ca), working at the **Algorithms & Complexity Lab** under [Prof. Hovhannes Harutyunyan](https://users.encs.concordia.ca/~haruty/) with 5 published or in-progress papers and a teaching portfolio spanning 10 courses (1100+ hours). My work sits at the intersection of **Theoretical Computer Science**, **Graph Theory**, and **Network Science** — designing scalable algorithms for complex network analysis.
+I'm a thesis-based **Master's student in Computer Science** at [Concordia University](https://www.concordia.ca), working in the **Algorithms & Complexity Lab** under [Prof. Hovhannes Harutyunyan](https://users.encs.concordia.ca/~haruty/). My thesis, **_Geodesic-Compact Community Detection and Quality Assessment in Social Networks_**, is expected to be completed in 2027.
 
-My core research focuses on **community detection** in large-scale graphs: I design, benchmark, and publish algorithms that uncover meaningful structure in social, citation, and synthetic networks.
+My work sits at the intersection of **Theoretical Computer Science**, **Graph Theory**, **Combinatorial Optimization**, and **Computational Social Science**. I design, benchmark, and publish algorithms that uncover meaningful structure in social, citation, and synthetic networks.
+
+I've also supported **15+ courses** and accumulated **1,650+ teaching hours** across tutorials, labs, marking, Programmer on Duty support, and TA leadership.
 
 > *"Design algorithms. Mine graphs. Understand networks."*
 
@@ -28,10 +31,17 @@ My core research focuses on **community detection** in large-scale graphs: I des
 
 ## 🔬 Research Interests
 
-- **Design & Analysis of Algorithms** — combinatorial optimization, approximation & randomized algorithms
-- **Graph Theory & Graph Mining** — community detection, link prediction, node classification
-- **Social Networks Analysis** — large-scale network evaluation, complex network dynamics
-- **Machine Learning on Graphs** — GNNs, scalable training strategies, network embeddings
+- **Design & Analysis of Algorithms** — combinatorial, approximation, randomized, and online algorithms
+- **Graph Theory & Graph Mining** — community detection, graph algorithms, and network structure
+- **Social Network Analysis** — community quality, metric backbone sparsification, and complex networks
+- **Machine Learning on Graphs** — GNNs, scalable training strategies, and network embeddings
+
+### Research highlights
+
+- Designed **Spider**, a community detection algorithm combining geodesic expansion, modularity-guided refinement, and greedy merge matching
+- Introduced **Weighted Average Geodesic Distance Modularity (wGDM)**, a size-consistent, label-free partition-quality measure
+- Achieved **14–71% edge reduction** across seven networks while preserving or improving community detection quality
+- Built a reproducible evaluation pipeline with fixed random seeds, baseline implementations, and automated analysis
 
 ---
 
@@ -39,11 +49,10 @@ My core research focuses on **community detection** in large-scale graphs: I des
 
 | Year | Paper | Venue |
 |------|-------|-------|
-| 2026 | **Spider Community Detection**: Seeded Geodesic Expansion with Modularity-Guided Refinement and Greedy Merge Matching *(with H. Harutyunyan)* | *Computers* — Special Issue: Recent Advances in Social Networks |
-| 2025 | **From Dense Graphs to Meaningful Communities**: Assessing Community Quality Using Geodesic Distance Modularity on Metric Backbone-Sparsified Networks *(with H. Harutyunyan)* | SNAMS 2025, Vienna, Austria |
-| 2024 | **Extending Refactoring Detection to Kotlin**: A Dataset and Comparative Study *(with I. H. Moghadam et al.)* | SANER 2024, Rovaniemi, Finland |
-| 2022 | **Community Detection in Complex Networks** Based on an Improved Random Algorithm Using Local and Global Network Information *(with F. Dabaghi-Zarandi)* | *Journal of Network and Computer Applications* |
-
+| 2026 | [**Spider Community Detection:** Seeded Geodesic Expansion with Modularity-Guided Refinement and Greedy Merge Matching](https://doi.org/10.3390/computers15020083) *(with H. Harutyunyan)* | *Computers* |
+| 2025 | [**From Dense Graphs to Meaningful Communities:** Assessing Community Quality Using Geodesic Distance Modularity on Metric Backbone-Sparsified Networks](https://doi.org/10.1109/SNAMS67467.2025.11391193) *(with H. Harutyunyan)* | IEEE SNAMS 2025 |
+| 2024 | [**Extending Refactoring Detection to Kotlin:** A Dataset and Comparative Study](https://doi.org/10.1109/SANER60148.2024.00034) *(with I. H. Moghadam et al.)* | IEEE SANER 2024 |
+| 2022 | [**Community Detection in Complex Networks** Based on an Improved Random Algorithm Using Local and Global Network Information](https://doi.org/10.1016/j.jnca.2022.103492) *(with F. Dabaghi-Zarandi)* | *Journal of Network and Computer Applications* |
 
 ---
 
@@ -52,7 +61,7 @@ My core research focuses on **community detection** in large-scale graphs: I des
 **Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -76,7 +85,6 @@ My core research focuses on **community detection** in large-scale graphs: I des
 ![NetworkX](https://img.shields.io/badge/NetworkX-3A7EBB?style=flat-square)
 ![iGraph](https://img.shields.io/badge/iGraph-E8652A?style=flat-square)
 
-
 **Tools & Databases**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -91,31 +99,36 @@ My core research focuses on **community detection** in large-scale graphs: I des
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
-
 ---
 
 ## 🏆 Honors & Awards
 
+- 🏆 **Dean’s Excellence Award for Excellence in Teaching by a Teaching Assistant** — Concordia University (2026)
 - 🏅 **Concordia Conference and Exposition Allowance** (2025)
 - 🥇 **DRW Graduate Scholarship in Computer Science** — Concordia University & DRW (2024)
-- 🎓 **Concordia Merit Scholarship** (Entrance Award) — Concordia University, School of Graduate Studies (2024)
-- 🔬 **Financial Research Support (FRS)** — Concordia Faculty of Engineering & Computer Science (2024)
-- 🌟 **Top Researcher Award** — Among all undergraduate students in Kerman Province (2023)
+- 🎓 **Concordia Merit Scholarship** — Concordia University, School of Graduate Studies (2024)
+- 🔬 **Financial Research Support (FRS)** — Gina Cody School of Engineering and Computer Science (2024)
+- 🌟 **Top Researcher Award** — Kerman Province (2023)
 - 🎖️ **Distinguished Student Award** — Vali-e-Asr University (2023)
 
 ---
+## 🧩 Selected Projects
 
-## 📬 Contact
-
-I'm always happy to connect about research, collaborations, or opportunities.
-
-- 🌐 **Website:** [benymaxparsa.github.io](https://benymaxparsa.github.io/)
-- 📧 **Email:** [parsakamalipour.edu@gmail.com](mailto:parsakamalipour.edu@gmail.com)
-- 💼 **LinkedIn:** [parsakamalipour](https://www.linkedin.com/in/parsakamalipour/)
-- 🐦 **Twitter/X:** [@ParsaKamalipour](https://twitter.com/ParsaKamalipour)
+- 🕸️ [**Scalable Community Detection with GNNs**](https://benymaxparsa.github.io/projects/CommunityGNN/) — GCN and GraphSAGE training strategies for large graphs
+- 🌊 [**Minimum-Cost Flow Algorithms**](https://benymaxparsa.github.io/projects/MinFlow/) — Experimental comparison of four network-flow optimization algorithms
+- 🎮 [**Uncertainty**](https://github.com/Null-References/Uncertainty) — Open-source Unity space-shooter built with the Null References team
 
 ---
 
 <div align="center">
-  <sub>Last updated: March 2026</sub>
+
+### 💬 Let’s connect
+
+*I’m always interested in algorithms, networks, research collaborations, and interesting technical projects.*
+
+[![Website](https://img.shields.io/badge/Explore%20my%20website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benymaxparsa.github.io/)
+[![CV](https://img.shields.io/badge/Download%20my%20CV-202020?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://benymaxparsa.github.io/cv/)
+
+<sub>Last checked: October 2026</sub>
+
 </div>
