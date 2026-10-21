@@ -5,12 +5,13 @@
 **Graduate Researcher & Teaching Assistant @ Concordia University**<br>
 *Algorithms & Complexity Lab · Montréal, QC, Canada*
 
-[![Website](https://img.shields.io/badge/Website-benymaxparsa.github.io-4A90D9?style=flat-square&logo=github)](https://benymaxparsa.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-eBNZsM0AAAAJ-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eBNZsM0AAAAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-parsakamalipour-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/parsakamalipour/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Parsa--Kamalipour-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Kamalipour)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2546--9676-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2546-9676)
-[![Email](https://img.shields.io/badge/Email-parsakamalipour.edu@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:parsakamalipour.edu@gmail.com)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benymaxparsa.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsakamalipour/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eBNZsM0AAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Kamalipour)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-2546-9676)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsakamalipour.edu@gmail.com)
+
 
 </div>
 
@@ -51,7 +52,7 @@ I've also supported **15+ courses** and accumulated **1,650+ teaching hours** ac
 | 2026 | [**Spider Community Detection:** Seeded Geodesic Expansion with Modularity-Guided Refinement and Greedy Merge Matching](https://doi.org/10.3390/computers15020083) *(with H. Harutyunyan)* | *Computers* |
 | 2025 | [**From Dense Graphs to Meaningful Communities:** Assessing Community Quality Using Geodesic Distance Modularity on Metric Backbone-Sparsified Networks](https://doi.org/10.1109/SNAMS67467.2025.11391193) *(with H. Harutyunyan)* | IEEE SNAMS 2025 |
 | 2024 | [**Extending Refactoring Detection to Kotlin:** A Dataset and Comparative Study](https://doi.org/10.1109/SANER60148.2024.00034) *(with I. H. Moghadam et al.)* | IEEE SANER 2024 |
-| 2022 | [**Community Detection in Complex Networks** Based on an Improved Random Algorithm Using Local and Global Network Information](https://benymaxparsa.github.io/publications/) *(with F. Dabaghi-Zarandi)* | *Journal of Network and Computer Applications* |
+| 2022 | [**Community Detection in Complex Networks** Based on an Improved Random Algorithm Using Local and Global Network Information](https://doi.org/10.1016/j.jnca.2022.103492) *(with F. Dabaghi-Zarandi)* | *Journal of Network and Computer Applications* |
 
 ---
 
@@ -111,18 +112,23 @@ I've also supported **15+ courses** and accumulated **1,650+ teaching hours** ac
 - 🎖️ **Distinguished Student Award** — Vali-e-Asr University (2023)
 
 ---
+## 🧩 Selected Projects
 
-## 📬 Contact
-
-I'm always happy to connect about research, collaborations, teaching, or interesting networks.
-
-- 🌐 **Website:** [benymaxparsa.github.io](https://benymaxparsa.github.io/)
-- 📧 **Email:** [parsakamalipour.edu@gmail.com](mailto:parsakamalipour.edu@gmail.com)
-- 💼 **LinkedIn:** [parsakamalipour](https://www.linkedin.com/in/parsakamalipour/)
-- 🐦 **Twitter/X:** [@ParsaKamalipour](https://twitter.com/ParsaKamalipour)
+- 🕸️ [**Scalable Community Detection with GNNs**](https://benymaxparsa.github.io/projects/CommunityGNN/) — GCN and GraphSAGE training strategies for large graphs
+- 🌊 [**Minimum-Cost Flow Algorithms**](https://benymaxparsa.github.io/projects/MinFlow/) — Experimental comparison of four network-flow optimization algorithms
+- 🎮 [**Uncertainty**](https://github.com/Null-References/Uncertainty) — Open-source Unity space-shooter built with the Null References team
 
 ---
 
 <div align="center">
-  <sub>Profile checked against the personal website on October 21, 2026</sub>
+
+### 💬 Let’s connect
+
+*I’m always interested in algorithms, networks, research collaborations, and interesting technical projects.*
+
+[![Website](https://img.shields.io/badge/Explore%20my%20website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benymaxparsa.github.io/)
+[![CV](https://img.shields.io/badge/Download%20my%20CV-202020?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://benymaxparsa.github.io/cv/)
+
+<sub>Last checked: October 2026</sub>
+
 </div>
