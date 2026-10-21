@@ -1,98 +1,109 @@
 <div align="center">
 
-# Parsa Kamalipour
+# 👋 Hi, I'm Parsa Kamalipour
 
-### I make graphs explain themselves.
+**M.Sc. Computer Science @ Concordia University · Algorithms & Complexity Researcher**
 
-**M.Sc. researcher · graph algorithms · community detection · teaching**
+*Designing graph algorithms to discover and measure structure in complex networks*
 
-<a href="https://benymaxparsa.github.io/">Website</a> ·
-<a href="https://scholar.google.com/citations?user=eBNZsM0AAAAJ">Google Scholar</a> ·
-<a href="https://www.linkedin.com/in/parsakamalipour/">LinkedIn</a> ·
-<a href="mailto:parsakamalipour.edu@gmail.com">Email</a>
-
-<br>
-<br>
-
-<img src="https://img.shields.io/badge/4-publications-6C2DC7?style=flat-square" alt="4 publications">
-<img src="https://img.shields.io/badge/15%2B-courses%20TA%27d-0A66C2?style=flat-square" alt="15 plus courses taught">
-<img src="https://img.shields.io/badge/1%2C650%2B-teaching%20hours-2EA44F?style=flat-square" alt="1650 plus teaching hours">
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benymaxparsa.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsakamalipour/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eBNZsM0AAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Kamalipour)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parsakamalipour.edu@gmail.com)
 
 </div>
 
 ---
 
-## Currently
+## 🚀 About Me
 
-I’m a thesis-based **Master of Computer Science student** at [Concordia University](https://www.concordia.ca/) and a researcher in the [Algorithms & Complexity Lab](https://users.encs.concordia.ca/~harutyun/).
+- 🎓 **Thesis-based M.Sc. student** in Computer Science at [Concordia University](https://www.concordia.ca/)
+- 🔬 Researcher at the **Algorithms & Complexity Lab** under [Prof. Hovhannes Harutyunyan](https://users.encs.concordia.ca/~haruty/)
+- 🧠 Thesis: **_Geodesic-Compact Community Detection and Quality Assessment in Social Networks_**
+- 📊 Research interests: **graph algorithms, community detection, graph mining, combinatorial optimization, and computational social science**
+- 👨‍🏫 **15+ courses TA’d** and **1,650+ teaching hours**
+- 🎯 Expected graduation: **2027**
 
-- Building better ways to detect and evaluate communities in social networks
-- Working with **Prof. Hovhannes Harutyunyan** on my thesis: _Geodesic-Compact Community Detection and Quality Assessment in Social Networks_
-- Teaching algorithms, databases, computer architecture, and theoretical computer science
-- Expected to graduate in **2027**
+## 🛠️ Technical Skills
 
-```text
-network  ──►  algorithm  ──►  structure  ──►  insight
-```
+### Algorithms, Graphs & ML
 
-## What I’m into
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-3A7EBB?style=for-the-badge)
+![iGraph](https://img.shields.io/badge/iGraph-E8652A?style=for-the-badge)
 
-| 01 | 02 | 03 |
-| --- | --- | --- |
-| **Graph algorithms**<br><sub>combinatorial, randomized, approximation</sub> | **Community detection**<br><sub>geodesics, modularity, graph mining</sub> | **Computational social science**<br><sub>networks, measurement, reproducibility</sub> |
+### Tools & Data
 
-## Selected work
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-### 🕸️ Spider
+---
 
-A community detection algorithm combining **geodesic expansion**, **modularity-guided refinement**, and **greedy merge matching**.
+## 🔬 Research Highlights
 
-→ [Read the paper](https://doi.org/10.3390/computers15020083) · [Explore the research](https://benymaxparsa.github.io/research/)
+| Project | What I worked on |
+| --- | --- |
+| **Spider** | Community detection using geodesic expansion, modularity-guided refinement, and greedy merge matching |
+| **wGDM** | A size-consistent, label-free measure for community quality |
+| **Metric backbones** | 14–71% edge reduction across seven networks while preserving or improving detection quality |
+| **Reproducible experiments** | Benchmarks across real-world networks and LFR synthetic graphs with fixed seeds and automated evaluation |
 
-### 📏 wGDM
+---
 
-**Weighted Average Geodesic Distance Modularity** — a size-consistent, label-free way to assess community quality.
+## 📚 Publications
 
-→ [Read about the work](https://doi.org/10.1109/SNAMS67467.2025.11391193)
+| Year | Title | Venue |
+|:----:|-------|-------|
+| 2026 | [**Spider Community Detection:** Seeded Geodesic Expansion with Modularity-Guided Refinement and Greedy Merge Matching](https://doi.org/10.3390/computers15020083) | **Computers** |
+| 2025 | [**From Dense Graphs to Meaningful Communities:** Assessing Community Quality Using Geodesic Distance Modularity on Metric Backbone-Sparsified Networks](https://doi.org/10.1109/SNAMS67467.2025.11391193) | **IEEE SNAMS** |
+| 2024 | [**Extending Refactoring Detection to Kotlin:** A Dataset and Comparative Study](https://doi.org/10.1109/SANER60148.2024.00034) | **IEEE SANER** |
+| 2022 | [**Community Detection in Complex Networks** Based on an Improved Random Algorithm Using Local and Global Network Information](https://benymaxparsa.github.io/publications/) | **JNCA** |
 
-### 🎮 Uncertainty
+## 🏆 Honors & Awards
 
-Before graphs took over, I co-founded [Null References](https://github.com/Null-References) and helped build [Uncertainty](https://github.com/Null-References/Uncertainty), an open-source Unity space-shooter.
+- 🏆 **Dean’s Excellence Award for Excellence in Teaching by a Teaching Assistant** — Concordia University, 2026
+- 🥇 **DRW Graduate Scholarship in Computer Science** — Concordia University & DRW, 2024
+- 🎓 **Concordia Merit Scholarship** — School of Graduate Studies, 2024
+- 🔬 **Financial Research Support** — Gina Cody School of Engineering and Computer Science, 2024
+- 🏅 **Concordia Conference and Exposition Allowance**, 2025
+- 🌟 **Top Researcher Award** — Kerman Province, 2023
 
-## Publications
+## 🎓 Education
 
-<details>
-<summary><strong>Selected papers</strong></summary>
+| Degree | Institution | Years | Focus |
+|--------|-------------|:-----:|-------|
+| **M.Sc. Computer Science** | Concordia University 🇨🇦 | 2024–2027 | Community detection, social networks, graph algorithms |
+| **B.Sc. Computer Engineering** | Vali-e-Asr University of Rafsanjan 🇮🇷 | 2018–2023 | Software engineering, graph algorithms, data mining |
 
-- [Spider Community Detection](https://doi.org/10.3390/computers15020083) · *Computers* · 2026
-- [From Dense Graphs to Meaningful Communities](https://doi.org/10.1109/SNAMS67467.2025.11391193) · IEEE SNAMS · 2025
-- [Extending Refactoring Detection to Kotlin](https://doi.org/10.1109/SANER60148.2024.00034) · IEEE SANER · 2024
-- [Community Detection in Complex Networks](https://benymaxparsa.github.io/publications/) · *Journal of Network and Computer Applications* · 2022
+## 🧩 Selected Projects
 
-</details>
+- 🕸️ [**Scalable Community Detection with GNNs**](https://benymaxparsa.github.io/projects/CommunityGNN/) — GCN and GraphSAGE training strategies for large graphs
+- 🌊 [**Minimum-Cost Flow Algorithms**](https://benymaxparsa.github.io/projects/MinFlow/) — Experimental comparison of four network-flow optimization algorithms
+- 🎮 [**Uncertainty**](https://github.com/Null-References/Uncertainty) — Open-source Unity space-shooter built with the Null References team
 
-## Teaching
-
-**15+ courses · 1,650+ hours · 2026 Dean’s Excellence Award**
-
-I’ve taught or supported courses in algorithms, data structures, discrete mathematics, databases, AI, programming languages, computer architecture, and theoretical computer science—through tutorials, labs, marking, POD support, and TA leadership.
-
-## Tools I use
-
-`Python` `C++` `Java` `C#` `MATLAB`<br>
-`PyTorch` `scikit-learn` `NumPy` `Pandas` `NetworkX` `iGraph`<br>
-`Git` `Docker` `Jupyter` `LaTeX` `PostgreSQL` `Neo4j`
-
-## Explore
-
-[Research](https://benymaxparsa.github.io/research/) ·
-[Teaching](https://benymaxparsa.github.io/teaching/) ·
-[Projects](https://benymaxparsa.github.io/projects/) ·
-[Education](https://benymaxparsa.github.io/education/) ·
-[CV](https://benymaxparsa.github.io/cv/) ·
-[News](https://benymaxparsa.github.io/news/)
+---
 
 <div align="center">
+
+### 💬 Let’s connect
+
+*I’m always interested in algorithms, networks, research collaborations, and interesting technical projects.*
+
+[![Website](https://img.shields.io/badge/Explore%20my%20website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benymaxparsa.github.io/)
+[![CV](https://img.shields.io/badge/Download%20my%20CV-202020?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://benymaxparsa.github.io/cv/)
 
 <sub>Last checked: October 2026</sub>
 
