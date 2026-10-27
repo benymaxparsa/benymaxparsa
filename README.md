@@ -117,6 +117,7 @@ I've also supported **15+ courses** and accumulated **1,650+ teaching hours** ac
 - 🕸️ [**Scalable Community Detection with GNNs**](https://benymaxparsa.github.io/projects/CommunityGNN/) — GCN and GraphSAGE training strategies for large graphs
 - 🌊 [**Minimum-Cost Flow Algorithms**](https://benymaxparsa.github.io/projects/MinFlow/) — Experimental comparison of four network-flow optimization algorithms
 - 🎮 [**Uncertainty**](https://github.com/Null-References/Uncertainty) — Open-source Unity space-shooter built with the Null References team
+- 📺 [**Koolest TV Launcher**](https://github.com/KoolestTVLauncher/Koolest-TV-Launcher) — A fast, ad-free Android TV and Google TV home screen with the Glass design, iOS style look
 
 ---
 
