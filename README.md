@@ -130,6 +130,8 @@ I've also supported **15+ courses** and accumulated **1,650+ teaching hours** ac
 
 [![Website](https://img.shields.io/badge/Explore%20my%20website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benymaxparsa.github.io/)
 [![CV](https://img.shields.io/badge/Download%20my%20CV-202020?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://benymaxparsa.github.io/cv/)
+[![Sponsor](https://img.shields.io/badge/Sponsor%20me%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/benymaxparsa)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/parsakamalipour)
 
 <sub>Last checked: October 2026</sub>
 
