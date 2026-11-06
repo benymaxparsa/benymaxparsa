@@ -5,7 +5,7 @@
 **Graduate Researcher & Teaching Assistant @ Concordia University**<br>
 *Algorithms & Complexity Lab · Montréal, QC, Canada*
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benymaxparsa.github.io/)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parsakp.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parsakamalipour/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eBNZsM0AAAAJ)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Parsa-Kamalipour)
@@ -114,8 +114,8 @@ I've also supported **15+ courses** and accumulated **1,650+ teaching hours** ac
 ---
 ## 🧩 Selected Projects
 
-- 🕸️ [**Scalable Community Detection with GNNs**](https://benymaxparsa.github.io/projects/CommunityGNN/) — GCN and GraphSAGE training strategies for large graphs
-- 🌊 [**Minimum-Cost Flow Algorithms**](https://benymaxparsa.github.io/projects/MinFlow/) — Experimental comparison of four network-flow optimization algorithms
+- 🕸️ [**Scalable Community Detection with GNNs**](https://parsakp.com/projects/CommunityGNN/) — GCN and GraphSAGE training strategies for large graphs
+- 🌊 [**Minimum-Cost Flow Algorithms**](https://parsakp.com/projects/MinFlow/) — Experimental comparison of four network-flow optimization algorithms
 - 🎮 [**Uncertainty**](https://github.com/Null-References/Uncertainty) — Open-source Unity space-shooter built with the Null References team
 - 📺 [**Koolest TV Launcher**](https://github.com/KoolestTVLauncher/Koolest-TV-Launcher) — A fast, ad-free Android TV and Google TV home screen with the Glass design, iOS style look
 - 🧲 [**Flickbar**](https://github.com/flickbar/flickbar) — Snap, resize and move macOS windows with trackpad gestures on their title bars
@@ -128,8 +128,8 @@ I've also supported **15+ courses** and accumulated **1,650+ teaching hours** ac
 
 *I’m always interested in algorithms, networks, research collaborations, and interesting technical projects.*
 
-[![Website](https://img.shields.io/badge/Explore%20my%20website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://benymaxparsa.github.io/)
-[![CV](https://img.shields.io/badge/Download%20my%20CV-202020?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://benymaxparsa.github.io/cv/)
+[![Website](https://img.shields.io/badge/Explore%20my%20website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parsakp.com/)
+[![CV](https://img.shields.io/badge/Download%20my%20CV-202020?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://parsakp.com/cv/)
 [![Sponsor](https://img.shields.io/badge/Sponsor%20me%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/benymaxparsa)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/parsakamalipour)
 
