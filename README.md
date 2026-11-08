@@ -117,8 +117,9 @@ I've also supported **15+ courses** and accumulated **1,650+ teaching hours** ac
 - 🕸️ [**Scalable Community Detection with GNNs**](https://parsakp.com/projects/CommunityGNN/) — GCN and GraphSAGE training strategies for large graphs
 - 🌊 [**Minimum-Cost Flow Algorithms**](https://parsakp.com/projects/MinFlow/) — Experimental comparison of four network-flow optimization algorithms
 - 🎮 [**Uncertainty**](https://github.com/Null-References/Uncertainty) — Open-source Unity space-shooter built with the Null References team
-- 📺 [**Koolest TV Launcher**](https://github.com/KoolestTVLauncher/Koolest-TV-Launcher) — A fast, ad-free Android TV and Google TV home screen with the Glass design, iOS style look
-- 🧲 [**Flickbar**](https://github.com/flickbar/flickbar) — Snap, resize and move macOS windows with trackpad gestures on their title bars
+- 📺 [**Koolest TV Launcher**](https://github.com/KoolestTVLauncher/Koolest-TV-Launcher) — A fast, ad-free Android TV and Google TV home screen with the Glass design, iOS style look · [Website](https://koolest.parsakp.com/)
+- 📚 [**Petit à petit**](https://github.com/Petit-a-petit-francais/Petit-a-petit-francais.github.io) — Free French practice app for A1–A2 learners: lessons, spaced-repetition review, verb drills, dictation and cheatsheets, with France and Québec voices · [Website](https://petitfrench.parsakp.com/)
+- 🧲 [**Flickbar**](https://github.com/flickbar/flickbar) — Snap, resize and move macOS windows with trackpad gestures on their title bars · [Website](https://flickbar.parsakp.com/)
 
 ---
 
@@ -133,6 +134,6 @@ I've also supported **15+ courses** and accumulated **1,650+ teaching hours** ac
 [![Sponsor](https://img.shields.io/badge/Sponsor%20me%20on%20GitHub-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/benymaxparsa)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/parsakamalipour)
 
-<sub>Last checked: October 2026</sub>
+<sub>Last checked: November 2026</sub>
 
 </div>
