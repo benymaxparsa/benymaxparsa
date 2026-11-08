@@ -117,9 +117,9 @@ I've also supported **15+ courses** and accumulated **1,650+ teaching hours** ac
 - 🕸️ [**Scalable Community Detection with GNNs**](https://parsakp.com/projects/CommunityGNN/) — GCN and GraphSAGE training strategies for large graphs
 - 🌊 [**Minimum-Cost Flow Algorithms**](https://parsakp.com/projects/MinFlow/) — Experimental comparison of four network-flow optimization algorithms
 - 🎮 [**Uncertainty**](https://github.com/Null-References/Uncertainty) — Open-source Unity space-shooter built with the Null References team
-- 📺 [**Koolest TV Launcher**](https://github.com/KoolestTVLauncher/Koolest-TV-Launcher) — A fast, ad-free Android TV and Google TV home screen with the Glass design, iOS style look · [Website](https://koolest.parsakp.com/)
-- 📚 [**Petit à petit**](https://github.com/Petit-a-petit-francais/Petit-a-petit-francais.github.io) — Free French practice app for A1–A2 learners: lessons, spaced-repetition review, verb drills, dictation and cheatsheets, with France and Québec voices · [Website](https://petitfrench.parsakp.com/)
-- 🧲 [**Flickbar**](https://github.com/flickbar/flickbar) — Snap, resize and move macOS windows with trackpad gestures on their title bars · [Website](https://flickbar.parsakp.com/)
+- 📺 **Koolest TV Launcher** · [Website](https://koolest.parsakp.com/) · [GitHub](https://github.com/KoolestTVLauncher/Koolest-TV-Launcher) — Ad-free Android TV and Google TV home screen
+- 📚 **Petit à petit** · [Website](https://petitfrench.parsakp.com/) · [GitHub](https://github.com/Petit-a-petit-francais/Petit-a-petit-francais.github.io) — Free French practice app for A1–A2 learners
+- 🧲 **Flickbar** · [Website](https://flickbar.parsakp.com/) · [GitHub](https://github.com/flickbar/flickbar) — Snap and move macOS windows with trackpad gestures
 
 ---
 
